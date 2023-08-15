@@ -13,7 +13,7 @@ body{
   position: relative;
   width: 30%;
   height: 720px;
-  background-image: url("./src/images/bg-main-desktop.png");
+  background-image: url("../images/bg-main-desktop.png");
 }
 .detailsContainer{
   width: 70%;
@@ -27,13 +27,13 @@ body{
   left: 130px;
   width: 98%;
   height: 240px;
-  background-image: url("./src/images/bg-card-front.png");
+  background-image: url("../images/bg-card-front.png");
   padding: 25px;
   display: flex;
   
 }
 .cvc{
-  background-image: url("./src/images/bg-card-back.png");
+  background-image: url("../images/bg-card-back.png");
   width: 98%;
   height: 240px;
   position: absolute;
@@ -178,7 +178,7 @@ input::-webkit-inner-spin-button {
     
     width: 100%;
     height: 270px;
-    background-image: url("./src/images/bg-main-desktop.png");
+    background-image: url("../images/bg-main-desktop.png");
     z-index: -1;
   }
   .detailsContainer{
